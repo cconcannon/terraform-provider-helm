@@ -7,7 +7,7 @@ import (
 	"bytes"
 	"encoding/binary"
 	"errors"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"math"
 	"math/bits"
 )

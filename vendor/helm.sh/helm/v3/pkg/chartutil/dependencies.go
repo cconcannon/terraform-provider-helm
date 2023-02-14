@@ -16,7 +16,7 @@ limitations under the License.
 package chartutil
 
 import (
-	"log"
+	log "github.com/sirupsen/logrus"
 	"strings"
 
 	"helm.sh/helm/v3/pkg/chart"

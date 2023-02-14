@@ -18,7 +18,7 @@ package engine
 
 import (
 	"context"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"strings"
 
 	"github.com/pkg/errors"

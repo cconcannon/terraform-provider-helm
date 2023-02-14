@@ -17,7 +17,7 @@ limitations under the License.
 package releaseutil
 
 import (
-	"log"
+	log "github.com/sirupsen/logrus"
 	"path"
 	"sort"
 	"strconv"

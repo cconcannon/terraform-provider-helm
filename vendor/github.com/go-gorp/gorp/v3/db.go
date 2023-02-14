@@ -11,7 +11,7 @@ import (
 	"database/sql/driver"
 	"errors"
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"reflect"
 	"strconv"
 	"strings"

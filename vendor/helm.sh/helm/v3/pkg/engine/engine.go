@@ -18,7 +18,7 @@ package engine
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"path"
 	"path/filepath"
 	"regexp"

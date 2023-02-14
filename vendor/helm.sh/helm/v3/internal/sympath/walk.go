@@ -21,7 +21,7 @@ limitations under the License.
 package sympath
 
 import (
-	"log"
+	log "github.com/sirupsen/logrus"
 	"os"
 	"path/filepath"
 	"sort"

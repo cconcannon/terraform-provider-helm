@@ -22,7 +22,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"net/url"
 	"os"
 	"path/filepath"
