@@ -27,7 +27,7 @@
 package gojsonschema
 
 import (
-	"log"
+	log "github.com/sirupsen/logrus"
 )
 
 const internalLogEnabled = false

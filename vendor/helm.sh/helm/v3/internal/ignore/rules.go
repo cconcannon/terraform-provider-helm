@@ -20,7 +20,7 @@ import (
 	"bufio"
 	"bytes"
 	"io"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"os"
 	"path/filepath"
 	"strings"

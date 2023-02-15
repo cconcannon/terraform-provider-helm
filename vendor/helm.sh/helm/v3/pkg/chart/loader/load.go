@@ -18,7 +18,7 @@ package loader
 
 import (
 	"bytes"
-	"log"
+	log "github.com/sirupsen/logrus"
 	"os"
 	"path/filepath"
 	"strings"

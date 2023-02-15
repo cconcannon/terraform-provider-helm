@@ -18,7 +18,7 @@ package chartutil
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sirupsen/logrus"
 
 	"github.com/mitchellh/copystructure"
 	"github.com/pkg/errors"
